@@ -1,2 +1,2 @@
-# Visualization
-Projects related to Visualization
+# Learning
+All Learning Stuff Related to Data Science
